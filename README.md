@@ -1,7 +1,7 @@
 # RetailMart Customer Intelligence Platform
 
 ## Group Members
-*   **Project Lead & Data Analyst:** Festus T. Amutenya (220006245)
+*   **Data Analyst:** Festus T. Amutenya (220006245)
 *   **Data Engineer:** Kennedy N. Hauwanga (218208399)
 *   **Data Scientist:** Evalistus T. Simon (201602435)
 
